@@ -19,25 +19,37 @@
 | <img src ="https://img.shields.io/badge/ethereum-3C3C3D?&style=for-the-badge&logo=ethereum&logoColor=white"/> ||
 | <img src ="https://img.shields.io/badge/ethereum-3C3C3D?&style=for-the-badge&logo=ethereum&logoColor=white"/> ||
 | <img src ="https://img.shields.io/badge/solidity-363636?&style=for-the-badge&logo=solidity&logoColor=white"/> ||  -->
+
+<br>  
   
-<br>
-  
-### 🌱 공부중인 기술🌱
-| 기술 | 공부 정리 노트 링크 |
-|:--|:-- |
-| <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> | [표시할 내용] (링크) |
-| <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> | [표시할 내용] (링크) |  
-  
-<br>
-  
-### 😍 관심있는 기술😍
+### 😍 관심있는 기술 😍
 | 분야 | 기술 |
 |:--|:-- |
 | 프론트엔드 | <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> |
 | 인공지능 | <img src ="https://img.shields.io/badge/tensorflow-FF6F00?&style=for-the-badge&logo=tensorflow&logoColor=white"/> |
 | NFT | <img src ="https://img.shields.io/badge/ethereum-3C3C3D?&style=for-the-badge&logo=ethereum&logoColor=white"/> <img src ="https://img.shields.io/badge/solidity-363636?&style=for-the-badge&logo=solidity&logoColor=white"/> |  
-  
 
+<br>  
+  
+### 🌱 공부중인 기술 🌱
+| 기술 | 공부 정리 노트 링크 |
+|:--|:-- |
+| <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> | [10분 후 복습] (링크) |
+|| [1일 후 복습] (링크) |
+|| [1주일 후 복습] (링크) |
+|| [1달 후 복습] (링크) |
+| <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> | [10분 후 복습] (링크) |
+|| [1일 후 복습] (링크) |
+|| [1주일 후 복습] (링크) |
+|| [1달 후 복습] (링크) |  
+  
+<br>  
+
+### 💡 공부 방법 💡
+#### 기억의 원리 : 에빙하우스의 4회 주기 복습
+에빙하우스의 주장에 따르면 학습 후 10분 후부터 망각이 시작되어 1시간 뒤에는 50%, 하루 뒤에는 70%, 한달 뒤에는 80% 를 망각하게 된다.  
+장기 기억화하기 위해서는 10분 후 복습, 1일 후 복습, 1주일 후 복습, 1달 후 복습이 반드시 필요하다.  
+ 
 <!--
 **im-cherry/im-cherry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
