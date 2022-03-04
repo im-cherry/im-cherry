@@ -32,16 +32,10 @@
 <br>  
   
 ### 🌱 공부중인 기술 🌱
-| 기술 | 공부 정리 노트 링크 | 진행 상황 |
-|:--|:--|:--|
-| <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> | [10분 후 복습](https://github.com/im-cherry/JavaScript/tree/main/%5B1%ED%9A%8C%EC%B0%A8%20%EB%B3%B5%EC%8A%B5%5D%2010%EB%B6%84) | 🎒(학습중...) |
-|| [1일 후 복습](https://github.com/im-cherry/JavaScript/tree/main/%5B2%ED%9A%8C%EC%B0%A8%20%EB%B3%B5%EC%8A%B5%5D%201%EC%9D%BC) | |
-|| [1주일 후 복습](https://github.com/im-cherry/JavaScript/tree/main/%5B3%ED%9A%8C%EC%B0%A8%20%EB%B3%B5%EC%8A%B5%5D%201%EC%A3%BC%EC%9D%BC) | |
-|| [1달 후 복습](https://github.com/im-cherry/JavaScript/tree/main/%5B4%ED%9A%8C%EC%B0%A8%20%EB%B3%B5%EC%8A%B5%5D%201%EB%8B%AC) | |
-| <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> | [10분 후 복습] (링크) | |
-|| [1일 후 복습] (링크) | |
-|| [1주일 후 복습] (링크) | |
-|| [1달 후 복습] (링크) | |
+| 기술 | 공부 정리 노트 링크 |
+|:--|:--|
+| <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> | [자바스크립트 정리](https://github.com/im-cherry/JavaScript) |
+| <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> |[리액트 정리]() |
   
 <br>  
 
