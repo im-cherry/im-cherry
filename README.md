@@ -1,7 +1,9 @@
 ### 🍒 자기소개 🍒
 안녕하세요! 성장하고 싶은 개발자 im-cherry 입니다.  
 현재 저는 SSAFY 대전 6기 교육생입니다.  
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=imcherry)](https://solved.ac/imcherry)
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=imcherry)](https://solved.ac/imcherry)  
+  
 <br>
 
 ### 🛠 기술 스택 🛠
