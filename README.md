@@ -37,12 +37,25 @@
 | 기술 | 공부 정리 노트 링크 | 진행 상황 |
 |:--|:--|:--:|
 | <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> | [자바스크립트 정리](https://github.com/im-cherry/JavaScript) | **공부중...** |
-| | [자바스크립트 프로젝트](https://github.com/im-cherry/JavaScript-Project) | 시작전 |
-| <img src="https://img.shields.io/badge/algorithm-00BCB4?style=for-the-badge&logo=thealgorithms&logoColor=white"> |[알고리즘 정리]() | 시작전 |
+| | [자바스크립트 프로젝트](https://github.com/im-cherry/JavaScript-Project) | **공부중...** |
 | <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> |[리액트 정리]() | 시작전 |
 | <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> |[뷰 정리]() | 시작전 |
 | <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> |[HTML 정리]() | 시작전 |
-| <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> |[CSS 정리]() | 시작전 |
+| <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> |[CSS 정리]() | 시작전 |  
+
+<br>  
+  
+### 🌱 알고리즘 문제 풀기 🌱
+| 사이트 | 난이도 | 진행 상황 |
+|:--|:--:|:--:|
+| [자료구조와 알고리즘 정리](https://github.com/im-cherry/Algorithm) | | **공부중...** |
+| [solved.ac](https://solved.ac/class) |[CLASS 1]() | 시작전 |
+||[CLASS 2]() | 시작전 |
+||[CALSS 3]() | 시작전 |
+||[CALSS 4]() | 시작전 |
+| [programmers](https://programmers.co.kr/learn/challenges?tab=all_challenges) |[Level 1]() | 시작전 |
+||[Level 2]() | 시작전 |
+||[Level 3]() | 시작전 |  
 
 <br>  
 
