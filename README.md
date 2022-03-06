@@ -49,24 +49,13 @@
 | 사이트 | 난이도 | 진행 상황 |
 |:--|:--:|:--:|
 | [자료구조와 알고리즘 정리](https://github.com/im-cherry/Algorithm) | | **공부중...** |
-| [solved.ac](https://solved.ac/class) |[CLASS 1]() | 시작전 |
+| [solved.ac](https://solved.ac/class) |[CLASS 1](https://github.com/im-cherry/Algorithm-CLASS1) | **공부중...** |
 ||[CLASS 2]() | 시작전 |
 ||[CALSS 3]() | 시작전 |
 ||[CALSS 4]() | 시작전 |
 | [programmers](https://programmers.co.kr/learn/challenges?tab=all_challenges) |[Level 1]() | 시작전 |
 ||[Level 2]() | 시작전 |
 ||[Level 3]() | 시작전 |  
-
-<br>  
-
-### 🌱 레포지토리 관리 🌱
-| 이름 | 내용 |진행 상황 |
-|:--|:--|:--:|
-| [Algorithm](https://github.com/im-cherry/Algorithm) | 자료구조와 알고리즘 정리 노트 | **공부중...** |
-| [HTML]() | HTML 정리 노트 | 시작전 |
-| [JavaScript](https://github.com/im-cherry/JavaScript) | 자바스크립트 정리 노트 | **공부중...** |
-| [JavaScript-Project](https://github.com/im-cherry/JavaScript-Project) | 자바스크립트를 이용한 작은 프로그램 구현 | **공부중...** |
-| [React]() | 리액트 정리 노트 | 시작전 |  
 
 <br>  
 
