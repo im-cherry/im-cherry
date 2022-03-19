@@ -9,8 +9,7 @@
 ### 🛠 기술 스택 🛠
 | 구분 | 기술 | 숙련도 | 레포지토리 |
 |:--|:--|:--|:--|
-| **프론트엔드** | <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> | :heart: :white_heart: :white_heart: :white_heart: :white_heart: | [HTML](https://github.com/im-cherry/HTML) |
-| | <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> | :heart: :white_heart: :white_heart: :white_heart: :white_heart: | [CSS](https://github.com/im-cherry/CSS) |
+| **프론트엔드** | <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> | :heart: :white_heart: :white_heart: :white_heart: :white_heart: | [HTML-CSS](https://github.com/im-cherry/HTML-CSS) |
 | | <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> | :heart: :white_heart: :white_heart: :white_heart: :white_heart: | [JavaScript](https://github.com/im-cherry/JavaScript) |
 | | <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> | :heart: :white_heart: :white_heart: :white_heart: :white_heart: ||
 | | <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> | :white_heart: :white_heart: :white_heart: :white_heart: :white_heart: | [React clone coding](https://github.com/im-cherry/React-clone-coding) |
